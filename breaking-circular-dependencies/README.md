@@ -1,6 +1,4 @@
-# go-breaking-circular-dependencies
-
-This is just a PoC about my learning journey in Software Engineering with Golang.
+# breaking-circular-dependencies
 
 It is related to a common problem when implementing packages to be provided to end-users.
 
